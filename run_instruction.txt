@@ -1,0 +1,10 @@
+1. For new user first u have to go to register and register your self using name email and password
+
+2. password should be 7+ character then after that you will have to login using your email and passowrd.
+
+3. After that you can start filling the details of contact by  |  seperated abd it will stored in the databse.
+
+4. If you are already a registered user you can login with your credential and then you are good to go.
+
+
+Thanks!
